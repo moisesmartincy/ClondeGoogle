@@ -194,7 +194,8 @@ body{
     padding: 1.7vh 10px 1vh;
     flex-shrink: 100;
   }
-  
+  /*@media en css utilizamos para aplicar estilos especificos: 
+  @media screen: Indica que estos estilos se aplicarán solo en dispositivos con pantalla, excluyendo*/
   /* consulta de medios para etiqueta de entrada */
   @media screen and (max-width: 600px){
     .search-input{
